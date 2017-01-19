@@ -9,9 +9,9 @@ If the version is newer, it notifies the user for a new ROM update.
 
 How to use
 ----------
-* Prepare the OTA xml file. Use this [template](https://raw.githubusercontent.com/Team-OctOS/platform_packages_apps_OctOTA/oct-14.1/examples/ota_oct-14.1.xml).
+* Prepare the OTA xml file. Use this [template](https://raw.githubusercontent.com/Team-OctOS/platform_packages_apps_OctOTA/aosp-7.1.1/examples/ota_oct-14.1.xml).
 * Upload it to your file hosting and create a hot link of it
-* Copy the [ota_conf template](https://raw.githubusercontent.com/Team-OctOS/platform_packages_apps_OctOTA/oct-14.1/examples/ota_conf) to app/src/main/assets folder
+* Copy the [ota_conf template](https://raw.githubusercontent.com/Team-OctOS/platform_packages_apps_OctOTA/aosp-7.1.1/examples/ota_conf) to app/src/main/assets folder
   * If you are buiding this app as part of the ROM, you need to copy ota_conf in the android root folder.
   * The Android.mk will pick it up and copy it to app/src/main/assets folder automatically.
 * Replace the "ota_url" with your OTA xml hot link
@@ -45,4 +45,4 @@ Screenshots
 -----------
 <img alt="Screenshot"
    width="270" height="480" 
-   src="https://raw.githubusercontent.com/Team-OctOS/platform_packages_apps_OctOTA/oct-14.1/screenshots/Screenshot.png" />
+   src="https://raw.githubusercontent.com/Team-OctOS/platform_packages_apps_OctOTA/aosp-7.1.1/screenshots/Screenshot.png" />

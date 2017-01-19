@@ -7,7 +7,7 @@
 # * Multiple devices can be added in the xml file
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 #
-ota_url=https://www.teamoctos.com/ota/ota_oct-14.1.xml
+ota_url=https://www.teamoctos.com/ota/ota_aosp-7.1.1.xml
 release_type=Weekly
 device_name=ro.to.device
 

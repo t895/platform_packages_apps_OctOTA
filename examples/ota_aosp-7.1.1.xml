@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OctOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Weekly>
+        <angler>
+            <Filename>OCT-N-WEEKLY-20170107-0014-angler.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="OCT-N-WEEKLY-20170107-0014-angler.zip">https://www.teamoctos.com/download/aosp-7.1.1/angler/OCT-N-WEEKLY-20170107-0014-angler.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="OCT-N-WEEKLY-20170107-0014-angler-changelog.log">https://www.teamoctos.com/download/aosp-7.1.1/angler/OCT-N-WEEKLY-20170107-0014-angler-changelog.log</ChangelogUrl>
+            <Md5sumUrl
+                id="md5sum"
+                title="Md5sum"
+                description="OCT-N-WEEKLY-20170107-0014-angler.zip.md5sum">https://www.teamoctos.com/download/aosp-7.1.1/angler/OCT-N-WEEKLY-20170107-0014-angler.zip.md5sum</Md5sumUrl>
+        </angler>
+        <bullhead>
+            <Filename>OCT-N-WEEKLY-20170107-0016-bullhead.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="OCT-N-WEEKLY-20170107-0016-bullhead.zip">https://www.teamoctos.com/download/aosp-7.1.1/bullhead/OCT-N-WEEKLY-20170107-0016-bullhead.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="OCT-N-WEEKLY-20170107-0016-bullhead-changelog.log">https://www.teamoctos.com/download/aosp-7.1.1/bullhead/OCT-N-WEEKLY-20170107-0016-bullhead-changelog.log</ChangelogUrl>
+            <Md5sumUrl
+                id="md5sum"
+                title="Md5sum"
+                description="OCT-N-WEEKLY-20170107-0016-bullhead.zip.md5sum">https://www.teamoctos.com/download/aosp-7.1.1/bullhead/OCT-N-WEEKLY-20170107-0016-d2spr.zip.md5sum</Md5sumUrl>
+        </d2spr>
+    </Weekly>
+</OctOTA>

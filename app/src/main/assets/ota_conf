@@ -9,7 +9,7 @@
 #
 ota_url=https://www.teamoctos.com/ota/ota_oct-14.1.xml
 release_type=Weekly
-device_name=ro.to.device
+device_name=ro.product.device
 
 #
 # VERSION
@@ -32,7 +32,7 @@ device_name=ro.to.device
 # Version position: 3 (zero based)
 # Version format:
 #
-version_source=ro.to.version
+version_source=ro.modversion
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd

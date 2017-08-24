@@ -1,35 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OctOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Weekly>
-        <athene>
-            <Filename>OCT-N-WEEKLY-20170107-0014-athene.zip</Filename>
+        <clark>
+            <Filename>Clark Builds</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="OCT-N-WEEKLY-20170107-0014-athene.zip">https://www.teamoctos.com/download/oct-14.1/athene/OCT-N-WEEKLY-20170107-0014-athene.zip</RomUrl>
+                title="ROM"
+                description="Clark Builds">https://mega.nz/#F!Sop0XTja!zBKCwyoHyll1lnEvq2eIjw</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="OCT-N-WEEKLY-20170107-0014-athene-changelog.log">https://www.teamoctos.com/download/oct-14.1/athene/OCT-N-WEEKLY-20170107-0014-athene-changelog.log</ChangelogUrl>
+                description="Available in the Mega Folder">https://mega.nz/#F!Sop0XTja!zBKCwyoHyll1lnEvq2eIjw</ChangelogUrl>
             <Md5sumUrl
                 id="md5sum"
                 title="Md5sum"
-                description="OCT-N-WEEKLY-20170107-0014-athene.zip.md5sum">https://www.teamoctos.com/download/oct-14.1/athene/OCT-N-WEEKLY-20170107-0014-athene.zip.md5sum</Md5sumUrl>
-        </athene>
-        <d2spr>
-            <Filename>OCT-N-WEEKLY-20170107-0016-d2spr.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="OCT-N-WEEKLY-20170107-0016-d2spr.zip">https://www.teamoctos.com/download/oct-14.1/d2spr/OCT-N-WEEKLY-20170107-0016-d2spr.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="OCT-N-WEEKLY-20170107-0016-d2spr-changelog.log">https://www.teamoctos.com/download/oct-14.1/d2spr/OCT-N-WEEKLY-20170107-0016-d2spr-changelog.log</ChangelogUrl>
-            <Md5sumUrl
-                id="md5sum"
-                title="Md5sum"
-                description="OCT-N-WEEKLY-20170107-0016-d2spr.zip.md5sum">https://www.teamoctos.com/download/oct-14.1/d2spr/OCT-N-WEEKLY-20170107-0016-d2spr.zip.md5sum</Md5sumUrl>
-        </d2spr>
+                description="Available in the Mega Folder">https://mega.nz/#F!Sop0XTja!zBKCwyoHyll1lnEvq2eIjw</Md5sumUrl>
+        </clark>
     </Weekly>
 </OctOTA>
